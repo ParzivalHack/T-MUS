@@ -9,8 +9,7 @@ T-MUS is a simple but easy to use Malicious URL Scanner written in Python.
 * pkg install python
 * pkg install git
 * pkg install toilet
-* pkg install qualcosa 
-* pkg install qualcosa 
+* pip install requests
 * git clone https://github.com/ParzivalHack/T-MUS
 
 # Usage
