@@ -2,7 +2,7 @@
 A MSU or Malicious URL Scanner, is a type of scanner that analyze a given URL and detects if it's suspicious or even malicious.
 
 # Tool info
-T-MUS is a simple but easy to use Malicious URL Scanner written in Python.
+T-MUS is a simple but easy to use Malicious URL Scanner written in Python with the ipqualityscore API.
 
 # Installation of T-MUS
 * apt update && apt upgrade
